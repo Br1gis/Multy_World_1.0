@@ -1,0 +1,3 @@
+Hello! You download my game, thanks!
+PLEASE, not delete files in Multy world v.1.0
+For game, download python and download pygame
